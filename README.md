@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @peykani
+- 👋 Hi, I’m Sinan
 - 
 - 👀 I’m interested in back-end and Front-End development
-- 🌱 I’m currently learning Golang, Html, Css, ...
+- 🌱 I’m currently learning Golang, Html, Css, Javascript, Python, ...
 - 💞️ I’m looking to collaborate on nothing yet
 
 
