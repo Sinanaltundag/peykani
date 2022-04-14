@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sinan
 - 👀 I’m interested in Back-end and Front-end development
 - 🌱 I’m currently learning Html, Css, Javascript, Sass & Scss, Bootstrap, React, Python, Golang, ...
-- 💞️ I love [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- 💞️ I love [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/)
 - 🥅 2022 Goals: Learn more about React, Django and Flutter
 - 👯 I must [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://www.clarusway.com) for unending teaching love and willingness to myy Bootcamp Clarusway
 
