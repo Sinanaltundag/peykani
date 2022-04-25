@@ -31,8 +31,9 @@ I A curious developer with high learning skills and fast adapt to new technologi
  <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> &nbsp;Some React Projects 
 
 
+-	https://myblogdb-app.netlify.app/
 -	https://sinan-recipe-app.netlify.app/
-- https://sinanaltundag.github.io/task-tracker/
+-	https://sinanaltundag.github.io/task-tracker/
 -	https://language-card-s.netlify.app/
 -	https://me-tour-places.netlify.app/
 
