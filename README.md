@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Sinan
+<a href="https://www.linkedin.com/in/sinan-altundag/">
+<img src="images/developer.gif" width="400" align="right" alt="logo">
+</a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=0765F7&center=true&vCenter=true&lines=Hello%F0%9F%91%8B+My+name+is+Sinan+++)](https://git.io/typing-svg)
 - 👀 I’m interested in Back-end and Front-end development
 - 🌱 I’m currently learning Html, Css, Javascript, Sass & Scss, Bootstrap, React, Python, Golang, ...
 - 💞️ I love [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/)
@@ -8,44 +12,73 @@
 
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
-I A curious developer with high learning skills and fast adapt to new technologies. Persistant to overcome challanges, search different methods to make effective solutions. Care to visual, algorithmic and coding design like an art.  Search different sources and algorithms to make most efficient products. Friendly management skills and adapt new team members, Not only learn himself, willing to teach for team improvement. Curious to learn various technologies, tools and libraries.  
+<p>
+  A curious developer with high learning skills and fast adapt to new technologies. Persistant to overcome challanges, search different methods to make effective solutions. Care to visual, algorithmic and coding design like an art.  Search different sources and algorithms to make most efficient products. Friendly management skills and adapt new team members, Not only learn himself, willing to teach for team improvement. Curious to learn various technologies, tools and libraries.  
+</p>
+
+---
+
+<div align="center">
+    
+   
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
+<div align="center">
+<img alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img  alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img  alt="Sass" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img  alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img  alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img  alt="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img  alt="Golang" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />
+<img  alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img  alt="GitHub" width="36px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+</div>
+    </div>
 <br />
 <br />
 
 ---
 
- <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> &nbsp;Some React Projects 
+ <div align="center">
+ <img align="center" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> &nbsp;Some React Projects 
+ 
 
 
--	https://myblogdb-app.netlify.app/
--	https://sinan-recipe-app.netlify.app/
--	https://sinanaltundag.github.io/task-tracker/
--	https://language-card-s.netlify.app/
--	https://me-tour-places.netlify.app/
-
-
+https://myblogdb-app.netlify.app/ <br/>
+https://sinan-recipe-app.netlify.app/ <br/>
+https://sinanaltundag.github.io/task-tracker/ <br/>
+https://language-card-s.netlify.app/ <br/>
+https://me-tour-places.netlify.app/
+</div>
+---
+  <br/>
+  <div align="center">
+    
  <img align="left" alt="sinanaltundag's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sinanaltundag&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+ 
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
+    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sinanaltundag&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=DD382B&fire=DD2727)](https://www.linkedin.com/in/sinan-altundag/)
+</div>
+
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me)](https://git.io/typing-svg)
+
 <a href="https://www.linkedin.com/in/sinan-altundag/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87491141/161761337-e1fed6bc-f699-49a6-8d96-69f9da804749.png" alt="sinanaltundag" height="40" width="40" /></a>
 <a href="mailto:peykani@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87491141/161759914-e0349994-b474-4921-a8b3-1d9baa56d732.png" alt="sinanaltundag" height="40" width="40" /></a>
+</div>
 
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/sinan-altundag/">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Sinanaltundag&hide_border=true&area=true&point=transparent&theme=react-dark" />
+  </a>
+</div>
+  
+  
 <!-- 📊 &nbsp;**This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=sinanaltundag&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
