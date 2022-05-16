@@ -51,13 +51,12 @@
  <div align="center">
  <img align="center" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> &nbsp;Some React Projects 
  
-
-
+https://portfolio-sinan.netlify.app/ <br/>
+https://google-clone-sinan.netlify.app/ <br/>
 https://myblogdb-app.netlify.app/ <br/>
+https://firebase-movie.herokuapp.com/ <br/>
 https://sinan-recipe-app.netlify.app/ <br/>
-https://sinanaltundag.github.io/task-tracker/ <br/>
-https://language-card-s.netlify.app/ <br/>
-https://me-tour-places.netlify.app/
+
 </div>
 
 ---
